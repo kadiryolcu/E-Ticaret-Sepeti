@@ -1,0 +1,15 @@
+C:\Users\KEYLO\Desktop\E-Ticaret-Sepeti\eTicaretSepeti\bin\Debug\net9.0\eTicaretSepeti.exe
+C:\Users\KEYLO\Desktop\E-Ticaret-Sepeti\eTicaretSepeti\bin\Debug\net9.0\eTicaretSepeti.deps.json
+C:\Users\KEYLO\Desktop\E-Ticaret-Sepeti\eTicaretSepeti\bin\Debug\net9.0\eTicaretSepeti.runtimeconfig.json
+C:\Users\KEYLO\Desktop\E-Ticaret-Sepeti\eTicaretSepeti\bin\Debug\net9.0\eTicaretSepeti.dll
+C:\Users\KEYLO\Desktop\E-Ticaret-Sepeti\eTicaretSepeti\bin\Debug\net9.0\eTicaretSepeti.pdb
+C:\Users\KEYLO\Desktop\E-Ticaret-Sepeti\eTicaretSepeti\obj\Debug\net9.0\eTicaretSepeti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KEYLO\Desktop\E-Ticaret-Sepeti\eTicaretSepeti\obj\Debug\net9.0\eTicaretSepeti.AssemblyInfoInputs.cache
+C:\Users\KEYLO\Desktop\E-Ticaret-Sepeti\eTicaretSepeti\obj\Debug\net9.0\eTicaretSepeti.AssemblyInfo.cs
+C:\Users\KEYLO\Desktop\E-Ticaret-Sepeti\eTicaretSepeti\obj\Debug\net9.0\eTicaretSepeti.csproj.CoreCompileInputs.cache
+C:\Users\KEYLO\Desktop\E-Ticaret-Sepeti\eTicaretSepeti\obj\Debug\net9.0\eTicaretSepeti.sourcelink.json
+C:\Users\KEYLO\Desktop\E-Ticaret-Sepeti\eTicaretSepeti\obj\Debug\net9.0\eTicaretSepeti.dll
+C:\Users\KEYLO\Desktop\E-Ticaret-Sepeti\eTicaretSepeti\obj\Debug\net9.0\refint\eTicaretSepeti.dll
+C:\Users\KEYLO\Desktop\E-Ticaret-Sepeti\eTicaretSepeti\obj\Debug\net9.0\eTicaretSepeti.pdb
+C:\Users\KEYLO\Desktop\E-Ticaret-Sepeti\eTicaretSepeti\obj\Debug\net9.0\eTicaretSepeti.genruntimeconfig.cache
+C:\Users\KEYLO\Desktop\E-Ticaret-Sepeti\eTicaretSepeti\obj\Debug\net9.0\ref\eTicaretSepeti.dll
